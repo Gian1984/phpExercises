@@ -1,0 +1,2 @@
+# phpExercises
+Exercises on php
